@@ -1,0 +1,31 @@
+body{
+    margin-top: 3%;
+}
+
+.title{
+    display: flex;
+    align-content: center;
+}
+.jumbotron{
+    background-image: url("file:///C:/Users/adrie/Desktop/doranco/images/photo-1519130350628-9e41ecf50c5e.jpg");
+    background-size: center;
+    background-position: 0px 450px;
+    height: 200px;
+}
+span{
+    border: 3px solid rgb(80, 80, 80);
+    margin-right: 5%;
+    padding: 6px;
+}
+#img1{
+    background: url("file:///C:/Users/adrie/Desktop/doranco/images/photo-1509790130140-9d3fb3dc9a0e.jpg") center/cover;
+    height: 200px;
+}
+#img2{
+    background: url("file:///C:/Users/adrie/Desktop/doranco/images/photo-1509789938206-af46b94db938.jpg") center/cover;
+    height: 200px;
+}
+.saucisse{
+    font-weight: 1;
+    font-size: smaller;
+}
